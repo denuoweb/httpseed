@@ -17,7 +17,7 @@
 package org.bitcoinj.httpseed
 
 import org.bitcoinj.core.NetworkParameters
-import org.bitcoinj.params.MainNetParams
+import org.bitcoinj.params.HtmlcoinMainNetParams
 import org.bitcoinj.utils.BriefLogFormatter
 import picocli.CommandLine
 import picocli.CommandLine.Command
