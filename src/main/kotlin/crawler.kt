@@ -36,7 +36,7 @@ import org.bitcoinj.core.listeners.DownloadProgressTracker
 import org.bitcoinj.core.listeners.PreMessageReceivedEventListener
 import org.bitcoinj.net.NioClientManager
 import org.bitcoinj.net.discovery.DnsDiscovery
-import org.bitcoinj.params.MainNetParams
+import org.bitcoinj.params.HtmlcoinMainNetParams
 import org.bitcoinj.params.TestNet3Params
 import org.bitcoinj.script.ScriptPattern
 import org.bitcoinj.store.MemoryBlockStore
